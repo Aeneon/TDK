@@ -25,7 +25,7 @@ This Developer Kit allows you to create new Icons and change the UI-Images from 
 
 ## 2. Requirements
 
-If you would like to use this TDK the first Application you need is [Adobe Photoshop](http://www.adobe.com/de/products/photoshop.html). With Photoshop you can use the most of all Templates, but some other Templates and Masks can only be used if you have a Mac and the Application [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) from the Mac App Store.
+If you would like to use this TDK the first Application you need is [Adobe Photoshop](https://www.adobe.com/de/products/photoshop.html). With Photoshop you can use the most of all Templates, but some other Templates and Masks can only be used if you have a Mac and the Application [Pixelmator](https://itunes.apple.com/de/app/pixelmator/id407963104?mt=12) from the Mac App Store.
 
 Some Templates require the Font "Myriad Pro", you can get them from [Adobe TypeKit](https://typekit.com/fonts/myriad). You can also sync these Font by opening a Template with Photoshop too.
 
@@ -79,7 +79,7 @@ How do you create Icons ? It's very simple with our small How-To :
 
 	**Pro Tip :** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the "512x512" to "1024x1024" at the End of this URL.
 
-	![TDK_Creation_HighResArtwork](https://avalon-studios.de/wp-content/services/images/TDK_Creation_HighResArtwork.png)
+	![TDK_Creation_HighResArtwork](http://spaces.avalon-studios.de/images/TDK_Creation_HighResArtwork.png)
 
 	**Note :** Don't close the "Bundle Id Finder" Tab, we need it for the Bundle ID later.
 
@@ -87,15 +87,15 @@ How do you create Icons ? It's very simple with our small How-To :
 
 3.	Do some Magic …
 
-	![TDK_Creation_TheMagic](https://avalon-studios.de/wp-content/services/images/TDK_Creation_TheMagic.png)
+	![TDK_Creation_TheMagic](http://spaces.avalon-studios.de/images/TDK_Creation_TheMagic.png)
 
 4.	Back in our "Bundle Id Finder", copy the "BundleIdentifier", by clicking the second Line …
 
-	![TDK_Creation_BundleIdentifier](https://avalon-studios.de/wp-content/services/images/TDK_Creation_BundleIdentifier.png)
+	![TDK_Creation_BundleIdentifier](http://spaces.avalon-studios.de/images/TDK_Creation_BundleIdentifier.png)
 
 5.	And now it's time for saving our newly created Image in Photoshop. Hit "Save as" from the Menu and save the Image as PNG, don't forget to use the copied Bundle-ID as Name and then add *after* this a "@2x". We need this for all Retina-Devices, like the iPhone 6S, so iOS can choose the correct Image for the corresponding Device-Resolution.
 
-	![TDK_Creation_SaveTheMagic](https://avalon-studios.de/wp-content/services/images/TDK_Creation_SaveTheMagic.png)
+	![TDK_Creation_SaveTheMagic](http://spaces.avalon-studios.de/images/TDK_Creation_SaveTheMagic.png)
 
 6.	Now you can close the Template - but we're not at the End !
 
