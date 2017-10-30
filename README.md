@@ -79,7 +79,7 @@ How do you create Icons ? It's very simple with our small How-To :
 
 	**Pro Tip :** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the "512x512" to "1024x1024" at the End of this URL.
 
-	![TDK_Creation_HighResArtwork](http://spaces.avalon-studios.de/images/TDK_Creation_HighResArtwork.png)
+	![TDK_Creation_HighResArtwork](https://repo.avalon-studios.de/devkit/TDK_Creation_HighResArtwork.png)
 
 	**Note :** Don't close the "Bundle Id Finder" Tab, we need it for the Bundle ID later.
 
@@ -87,15 +87,15 @@ How do you create Icons ? It's very simple with our small How-To :
 
 3.	Do some Magic …
 
-	![TDK_Creation_TheMagic](http://spaces.avalon-studios.de/images/TDK_Creation_TheMagic.png)
+	![TDK_Creation_TheMagic](https://repo.avalon-studios.de/devkit/TDK_Creation_TheMagic.png)
 
 4.	Back in our "Bundle Id Finder", copy the "BundleIdentifier", by clicking the second Line …
 
-	![TDK_Creation_BundleIdentifier](http://spaces.avalon-studios.de/images/TDK_Creation_BundleIdentifier.png)
+	![TDK_Creation_BundleIdentifier](https://repo.avalon-studios.de/devkit/TDK_Creation_BundleIdentifier.png)
 
 5.	And now it's time for saving our newly created Image in Photoshop. Hit "Save as" from the Menu and save the Image as PNG, don't forget to use the copied Bundle-ID as Name and then add *after* this a "@2x". We need this for all Retina-Devices, like the iPhone 6S, so iOS can choose the correct Image for the corresponding Device-Resolution.
 
-	![TDK_Creation_SaveTheMagic](http://spaces.avalon-studios.de/images/TDK_Creation_SaveTheMagic.png)
+	![TDK_Creation_SaveTheMagic](https://repo.avalon-studios.de/devkit/TDK_Creation_SaveTheMagic.png)
 
 6.	Now you can close the Template - but we're not at the End !
 
