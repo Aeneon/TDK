@@ -4,7 +4,7 @@
 
 after so many Updates of Suave7 we would like to share the Love from this amazing Theme with you. Our Goal is not to change only some Icons, we would like going into the Deep&nbsp;: We change the User Interface&nbsp;(&nbsp;UI&nbsp;) from App-Store-Apps, as will as a lot of Images from iOS.
 
-![Header](https://repo.avalon-studios.de/developer/TDK_Header.png)
+<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Header.png" /></p>
 
 So we can say&nbsp;: Suave7 is not only a Theme. It's true Love for iOS.
 
@@ -85,7 +85,7 @@ How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
 
 	**Pro Tip&nbsp;:** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the "512x512" to "1024x1024" at the End of this URL.
 
-	![TDK_Creation_HighResArtwork](https://repo.avalon-studios.de/developer/TDK_Creation_HighResArtwork.png)
+	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_HighResArtwork.png" /></p>
 
 	**Note&nbsp;:** Don't close the "Bundle Id Finder" Tab, we need it for the Bundle ID later.
 
@@ -93,15 +93,15 @@ How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
 
 3.	Do some Magic&nbsp;…
 
-	![TDK_Creation_TheMagic](https://repo.avalon-studios.de/developer/TDK_Creation_TheMagic.png)
+	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_TheMagic.png" /></p>
 
 4.	Back in our "Bundle Id Finder", copy the "BundleIdentifier", by clicking the second Line&nbsp;…
 
-	![TDK_Creation_BundleIdentifier](https://repo.avalon-studios.de/developer/TDK_Creation_BundleIdentifier.png)
+	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_BundleIdentifier.png" /></p>
 
 5.	And now it's time for saving our newly created Image in Photoshop. Hit "Save as" from the Menu and save the Image as PNG, don't forget to use the copied Bundle-ID as Name and then add a "@2x" *after* this. We need this for all Retina-Devices, like the iPhone 6S, so iOS can choose the correct Image for the corresponding Device-Resolution.
 
-	![TDK_Creation_SaveTheMagic](https://repo.avalon-studios.de/developer/TDK_Creation_SaveTheMagic.png)
+	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_SaveTheMagic.png" /></p>
 
 6.	Now you can close the Template&nbsp;- but we're not at the End !
 
