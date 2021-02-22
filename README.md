@@ -135,7 +135,7 @@ Additionally to the Templates for the Icons, this TDK contains some other import
 
 ## 6. Last Words
 
-That's it ! We hope you have Fun with our Theme Developer Kit and you will share the Love with Suave7. If you would like to contribute to this Project, let us know.
+That's it&nbsp;! We hope you have Fun with our Theme Developer Kit and you will share the Love with Suave7. If you would like to contribute to this Project, let us know.
 
 If you respect our hard Work, you can help us with a small Donation via [PayPal.me](https://paypal.me/avalonstudios)&nbsp;😃&nbsp;…
 
