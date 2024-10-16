@@ -4,7 +4,7 @@
 
 after so many Updates of Suave7 we would like to share the Love from this amazing Theme with you. Our Goal is not to change only some Icons, we would like going into the Deep&nbsp;: We change the User Interface&nbsp;(&nbsp;UI&nbsp;) from App-Store-Apps, as will as a lot of Images from iOS.
 
-<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Icon.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/TDK_Icon.png" /></p>
 
 So we can say&nbsp;: Suave7 is not only a Theme. It's true Love for iOS.
 
@@ -87,7 +87,7 @@ How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
 
 	**Pro Tip&nbsp;:** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the `512x512` to `1024x1024` at the End of this URL.
 
-	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_HighResArtwork.png" /></p>
+	<p align="center"><img src="https://macthemes.me/developer/TDK_Creation_HighResArtwork.png" /></p>
 
 	**Note&nbsp;:** Don't close the &quot;Bundle Id Finder&quot; Tab, we need it for the Bundle ID later.
 
@@ -95,15 +95,15 @@ How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
 
 3.	Do some Magic&nbsp;…
 
-	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_TheMagic.png" /></p>
+	<p align="center"><img src="https://macthemes.me/developer/TDK_Creation_TheMagic.png" /></p>
 
 4.	Back in our &quot;Bundle Id Finder&quot;, copy the &quot;BundleIdentifier&quot;, by clicking the second Line&nbsp;…
 
-	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_BundleIdentifier.png" /></p>
+	<p align="center"><img src="https://macthemes.me/developer/TDK_Creation_BundleIdentifier.png" /></p>
 
 5.	And now it's time for saving our newly created Image in Photoshop. Hit &quot;Save as&quot; from the Menu and save the Image as PNG, don't forget to use the copied Bundle-ID as Name and then add a `@2x` *after* this. We need this for all Retina-Devices, like the iPhone 6S, so iOS can choose the correct Image for the corresponding Device-Resolution.
 
-	<p align="center"><img src="https://repo.avalon-studios.de/developer/TDK_Creation_SaveTheMagic.png" /></p>
+	<p align="center"><img src="https://macthemes.me/developer/TDK_Creation_SaveTheMagic.png" /></p>
 
 6.	Now you can close the Template&nbsp;- but we're not at the End&nbsp;!
 
@@ -139,7 +139,7 @@ Additionally to the Templates for the Icons, this TDK contains some other import
 
 That's it&nbsp;! We hope you have Fun with our Theme Developer Kit and you will share the Love with Suave7. If you would like to contribute to this Project, let us know.
 
-If you respect our hard Work, you can help us with a small Donation via [PayPal.me](https://paypal.me/avalonstudios)&nbsp;😃&nbsp;…
+If you respect our hard Work, you can help us with a small Donation via [PayPal.me](https://www.paypal.com/donate/?hosted_button_id=F5EPEFSLDBHPQ)&nbsp;😃&nbsp;…
 
 
 ## 7. Greetings
