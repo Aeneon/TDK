@@ -2,11 +2,11 @@
 
 **Hello Friends,**
 
-after so many Updates of Suave7 we would like to share the Love from this amazing Theme with you. Our Goal is not to change only some Icons, we would like going into the Deep&nbsp;: We change the User Interface&nbsp;(&nbsp;UI&nbsp;) from App-Store-Apps, as will as a lot of Images from iOS.
+after so many Updates of Suave7 we would like to share the Love from this amazing Theme with you. Our Goal is not to change only some Icons, we would like going into the Deep: We change the User Interface&nbsp;(&nbsp;UI&nbsp;) from App-Store-Apps, as will as a lot of Images from iOS.
 
 <p align="center"><img src="https://macthemes.me/developer/TDK_Header.png" /></p>
 
-So we can say&nbsp;: Suave7 is not only a Theme. It's true Love for iOS.
+So we can say: Suave7 is not only a Theme. It's true Love for iOS.
 
 
 ## Table of Contents
@@ -22,9 +22,9 @@ So we can say&nbsp;: Suave7 is not only a Theme. It's true Love for iOS.
 
 ## 1. Sharing the Love
 
-This Developer Kit allows you to create new Icons and change the UI-Images from Apps and the entirely iOS based on the Design of Suave7. We would like to share the Love with you&nbsp;: The Themers all over the World. This is what makes Suave7 so beautiful&nbsp;…
+This Developer Kit allows you to create new Icons and change the UI-Images from Apps and the entirely iOS based on the Design of Suave7. We would like to share the Love with you: The Themers all over the World. This is what makes Suave7 so beautiful&nbsp;…
 
-If we're working with a Path, you'll see an opened Folder-Emoji, following by the Path&nbsp;: `📂 Icons ● Pat 97.4 ( MacThemes )`.
+If we're working with a Path, you'll see an opened Folder-Emoji, following by the Path: `📂 Icons ● Pat 97.4 ( MacThemes )`.
 
 
 ## 2. Requirements
@@ -38,11 +38,11 @@ The last Thing you need is Patience.
 
 ## 3. Contents
 
-The TDK currently contains the following Folders&nbsp;:
+The TDK currently contains the following Folders:
 
 - `📂 Defaults`
 
-  These Templates are obsolete. We've added it, because you can use them for some Apps on iOS 7. With iOS 8, Apple introduced a new Way loading Apps&nbsp;: Dynamic Loading Screens, so we can't theme the &quot;Defaults&quot; anymore.
+  These Templates are obsolete. We've added it, because you can use them for some Apps on iOS 7. With iOS 8, Apple introduced a new Way loading Apps: Dynamic Loading Screens, so we can't theme the &quot;Defaults&quot; anymore.
 
 - `📂 Icons`
 
@@ -60,7 +60,7 @@ The TDK currently contains the following Folders&nbsp;:
 
   This Folder contains all necessary Templates to theme Apps from the App Store, which can be used for other Apps too. The Templates for Facebook Messenger, Twitter and Shazam needs to be updated, to match with the latest UI-Images.
 
-…&nbsp;and the following Photoshop-Templates&nbsp;:
+…&nbsp;and the following Photoshop-Templates:
 
 - `📂 Icons ( Aeneon, System ).psd`
 
@@ -81,15 +81,15 @@ The TDK currently contains the following Folders&nbsp;:
 
 ## 4. Creating Icons
 
-How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
+How do you create Icons&nbsp;? It's very simple with our small How-To:
 
 1.	Search for the Bundle-ID and the iTunes-Artwork with OffCorner's &quot;[Bundle Id Finder](http://offcornerdev.com/bundleid.html)&quot;. If you've got your App, click on the Image showing the iTunes-Artwork and save the Image.
 
-	**Pro Tip&nbsp;:** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the `512x512` to `1024x1024` at the End of this URL.
+	**Pro Tip:** If you need a High-Res-Image, you can alter the Address of this Artwork by replacing the `512x512` to `1024x1024` at the End of this URL.
 
 	<p align="center"><img src="https://macthemes.me/developer/TDK_Creation_HighResArtwork.png" /></p>
 
-	**Note&nbsp;:** Don't close the &quot;Bundle Id Finder&quot; Tab, we need it for the Bundle ID later.
+	**Note:** Don't close the &quot;Bundle Id Finder&quot; Tab, we need it for the Bundle ID later.
 
 2.	Choose a Template&nbsp;(&nbsp;we will use the new Template for this&nbsp;) and open the downloaded iTunes-Artwork in Photoshop.
 
@@ -120,7 +120,7 @@ How do you create Icons&nbsp;? It's very simple with our small How-To&nbsp;:
 
 ## 5. Other notable Templates
 
-Additionally to the Templates for the Icons, this TDK contains some other important Templates, to achieve the Suave7-Design&nbsp;:
+Additionally to the Templates for the Icons, this TDK contains some other important Templates, to achieve the Suave7-Design:
 
 - `📂 UI ( Cydia-Tweaks ) ● Activator ( Listeners ).psd`
 
