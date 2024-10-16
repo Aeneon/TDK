@@ -4,7 +4,7 @@
 
 after so many Updates of Suave7 we would like to share the Love from this amazing Theme with you. Our Goal is not to change only some Icons, we would like going into the Deep&nbsp;: We change the User Interface&nbsp;(&nbsp;UI&nbsp;) from App-Store-Apps, as will as a lot of Images from iOS.
 
-<p align="center"><img src="https://macthemes.me/developer/TDK_Icon.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/TDK_Header.png" /></p>
 
 So we can say&nbsp;: Suave7 is not only a Theme. It's true Love for iOS.
 
